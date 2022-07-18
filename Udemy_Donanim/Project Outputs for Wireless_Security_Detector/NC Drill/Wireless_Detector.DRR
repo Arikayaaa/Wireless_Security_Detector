@@ -1,0 +1,29 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Wireless_Detector.PcbDoc   18/07/2022  21:24:31
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : Wireless_Detector-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : Wireless_Detector-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : Wireless_Detector-SlotHoles-Plated.TXT
+EIA File   : Wireless_Detector.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      7mil (0.18mm)                                             Round             12        PTH        0.61inch (15.60mm)
+T2      12mil (0.3mm)                                             Round             4         PTH        0.16inch (3.99mm)
+T3      14mil (0.35mm)                                            Round             186       PTH        31.42inch (798.08mm)
+T4      26mil (0.65mm)                                            Round             3         PTH        0.34inch (8.69mm)
+T5      32mil (0.8mm)                                             Round             2         PTH        0.20inch (5.00mm)
+T6      34mil (0.87mm)                                            Round             12        PTH        1.88inch (47.69mm)
+T7      39mil (1mm)                                               Round             12        PTH        7.43inch (188.84mm)
+T8      39mil (1mm)                                               Slot              2         PTH        3.89inch (98.85mm)
+T9      47mil (1.2mm)                                             Slot              4         PTH        4.72inch (119.83mm)
+T10     51mil (1.3mm)                                             Round             10        PTH        2.97inch (75.34mm)
+T11     67mil (1.7mm)                                             Round             6         PTH        2.53inch (64.16mm)
+T12     35mil (0.9mm)                                             Round             2         NPTH       0.12inch (3.00mm)
+T13     83mil (2.1mm)                                             Round             2         NPTH       2.14inch (54.41mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              257
+
+Total Processing Time (hh:mm:ss) : 00:00:01

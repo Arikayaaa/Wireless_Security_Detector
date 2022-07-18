@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetBR1_2 Pin=T1-7
+Removed Pin From Net: NetName=NetBR1_1 Pin=T1-9
+Added Pin To Net: NetName=NetBR1_1 Pin=T1-7
+Added Pin To Net: NetName=NetBR1_2 Pin=T1-9
+Added Member To Class: ClassName=Power Management Member=Component C12 CL21B104KBCNNNC
+Added Room: Name=Microcontroller
+Added Room: Name=Power Management
+Added Room: Name=Sensor_Board

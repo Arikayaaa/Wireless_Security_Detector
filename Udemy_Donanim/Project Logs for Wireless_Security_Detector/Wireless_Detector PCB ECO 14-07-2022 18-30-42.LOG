@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=NetR6_1 New Net Name=MCU_N
+Change Net Name : Old Net Name=NetR7_1 New Net Name=MCU_P
+Added Differential Pair: Name=MCU
+Added Room: Name=Sensor_Board

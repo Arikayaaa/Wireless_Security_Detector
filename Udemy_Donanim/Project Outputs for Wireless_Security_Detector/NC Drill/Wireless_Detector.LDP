@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Projects\Udemy_Donanim\Wireless_Detector.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=wireless_detector-roundholes-plated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=wireless_detector-slotholes-plated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=wireless_detector-roundholes-nonplated.txt|DrillLayers=gtl,gp1,gp2,gbl

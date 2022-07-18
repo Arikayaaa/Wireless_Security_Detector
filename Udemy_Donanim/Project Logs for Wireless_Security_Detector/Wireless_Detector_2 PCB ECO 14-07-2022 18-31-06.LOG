@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetBR1_2 Pin=T1-7
+Removed Pin From Net: NetName=NetBR1_1 Pin=T1-9
+Added Pin To Net: NetName=NetBR1_1 Pin=T1-7
+Added Pin To Net: NetName=NetBR1_2 Pin=T1-9
+Change Net Name : Old Net Name=NetR6_1 New Net Name=MCU_N
+Change Net Name : Old Net Name=NetR7_1 New Net Name=MCU_P
+Added Differential Pair: Name=MCU
+Added Member To Class: ClassName=Power Management Member=Component C12 CL21B104KBCNNNC
+Added Room: Name=Microcontroller
+Added Room: Name=Power Management
+Added Room: Name=Sensor_Board

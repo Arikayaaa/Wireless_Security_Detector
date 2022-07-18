@@ -1,0 +1,10 @@
+Sistem 220V AC 50Hz şebeke bağlantısı ile çalışabilmeli
+Sistemde kullanıcının kullanabileceği 12V DC ve 5V DC güç çıkışları olmalıdır.
+Sistem USB arayüzü ile bilgisayara bağlanabilir ve veri aktarabilir olmalıdır
+Sistem gerçek zamanlı saat bilgisini kullanıcıya verebilmelidir
+Sistem ortam sıcaklık verisini anlık olarak kullanıcıya aktarabilmelidir.
+Bir hareket algılandığında sistem kullanıcıya veri gönderebilmelidir.
+Bir hareket algılandığında kullanıcı isterse sesli veya görüntülü uyarı alabilecektir.
+Sistem hareket algılanacak ortamda güvenlik kamerası görünümünde olmalıdır.
+Sistem Wi-Fi özelliği ile de tüm verileri kullanıcıya gönderebilecektir.
+Kullanıcı isterse işlemci içerisinde koşan yazılıma müdahale edebilecektir.
