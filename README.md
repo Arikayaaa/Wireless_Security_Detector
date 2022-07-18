@@ -1,6 +1,8 @@
 # Wireless_Security_Detector
 ## Altium Designer ile Donanım Tasarım Mühendisliği Eğitimi
 
+[Wireless_Security_Detector.pdf](https://github.com/Arikayaaa/Wireless_Security_Detector/files/9136108/Wireless_Security_Detector.pdf)
+
 ![All Layers](https://user-images.githubusercontent.com/38187643/179623619-79fd80aa-1db7-454e-a806-4031bc56629c.PNG)
 ![Top Layer](https://user-images.githubusercontent.com/38187643/179623637-b4c7d645-34c4-498a-9ca1-e07c0f0001a7.PNG)
 ![GND Layer](https://user-images.githubusercontent.com/38187643/179623645-065a611e-5c5f-436b-9b6b-a06de5ec58b3.PNG)
